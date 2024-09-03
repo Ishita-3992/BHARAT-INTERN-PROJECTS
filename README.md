@@ -1,3 +1,2 @@
 BHARAT INTERN PROJECTS:
-Movie Recommendation system
-House Price Prediction
+https://github.com/Ishita-3992/BHARAT-INTERN-PROJECTS/tree/cedfc2bee51029918636d692d15fd377bd8c430e/House%20Price%20Prediction
