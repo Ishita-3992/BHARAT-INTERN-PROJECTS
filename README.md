@@ -12,9 +12,13 @@ Collaborative Filtering: Analyzes patterns from similar users to suggest movies.
 Hybrid Model: Combines various approaches for even more accurate recommendations.
 
 ### Tools & Technologies:
+
 • Python: Scripting and model development
+
 • Pandas & NumPy: Data manipulation
+
 • Scikit-Learn: Building recommendation algorithms
+
 • Streamlit: Deploying the model for user interaction.
 
 ![MRS Image](MRS.jpg)
@@ -44,9 +48,13 @@ The model is live and interactive, deployed using Flask. Users can input their p
 This project was a fantastic learning journey, from data cleaning to model deployment. I’m thrilled to apply these newly honed skills to future challenges and projects.
 
 ### Tools & Technologies:
+
 • Python: Scripting and model development
+
 • Pandas & NumPy: Data manipulation
+
 • Scikit-Learn: Building recommendation algorithms
+
 • Streamlit: Deploying the model for user interaction.
 
 ![HPS Image](HPS.jpg)
