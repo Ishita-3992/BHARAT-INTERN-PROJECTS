@@ -23,19 +23,25 @@ Hybrid Model: Combines various approaches for even more accurate recommendations
 
 ### Project Highlights:
 
-### Model Development: Created a robust House Price Prediction model considering essential factors such as:
+### Model Development: 
+
+Created a robust House Price Prediction model considering essential factors such as:
 
 • Number of bedrooms and bathrooms
 • Area in square feet
 • Zip code of the location
 
-### Data Preparation: Ensured accuracy by meticulously processing and cleaning the dataset.
+### Data Preparation: 
+Ensured accuracy by meticulously processing and cleaning the dataset.
 
-### Machine Learning: Leveraged advanced regression models to predict house prices based on user inputs.
+### Machine Learning: 
+Leveraged advanced regression models to predict house prices based on user inputs.
 
-###Deployment: The model is live and interactive, deployed using Flask. Users can input their preferences and instantly get an estimated price for their dream home.
+### Deployment: 
+The model is live and interactive, deployed using Flask. Users can input their preferences and instantly get an estimated price for their dream home.
 
-### Key Takeaways: This project was a fantastic learning journey, from data cleaning to model deployment. I’m thrilled to apply these newly honed skills to future challenges and projects.
+### Key Takeaways: 
+This project was a fantastic learning journey, from data cleaning to model deployment. I’m thrilled to apply these newly honed skills to future challenges and projects.
 
 ### Tools & Technologies:
 • Python: Scripting and model development
