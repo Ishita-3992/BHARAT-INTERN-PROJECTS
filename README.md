@@ -19,5 +19,6 @@ Hybrid Model: Combines various approaches for even more accurate recommendations
 
 (https://lnkd.in/gniMpZ3C)
 
-! ("C:\Users\ISHITA\Downloads\MRS.jpg")
+![MRS Image](MRS.jpg)
+
 
